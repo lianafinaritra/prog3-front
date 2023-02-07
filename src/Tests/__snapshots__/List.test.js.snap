@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List test should renders correctly 1`] = `
+<div
+  className="card-container"
+  data-testid="list"
+>
+  <div
+    className="card"
+    data-testid="cardItem"
+  >
+    <p>
+      enjana
+    </p>
+    <div
+      className="checkbox"
+    >
+      <div
+        data-testid="checkbox"
+      >
+        <input
+          onClick={[Function]}
+          type="checkbox"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;
